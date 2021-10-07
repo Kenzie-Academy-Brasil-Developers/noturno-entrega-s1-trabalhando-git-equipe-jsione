@@ -40,7 +40,7 @@ Depois de criado o repo e os Branches, cada membro da equipe deve copiar o bloco
 ```
 Cada entrada deverá ter ao menos:
 
-1. Jéssica Simone Barbosa Santos;
+1. Jéssica Simone;
 2. Moro em Porto Velho/RO;
 3. Comecei a estudar programação em março deste ano.
 
