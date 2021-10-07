@@ -32,11 +32,11 @@ Depois de criado o repo e os Branches, cada membro da equipe deve copiar o bloco
 ```Markdown
 # Entrega: Trabalhando em equipe com git.
 
-## Fato sobre <nome do dev>
+## Fato sobre <André Silva>
 
-1. O seu Nome;
-2. Um pouco sobre você;
-3. Comentário sobre o seu relacionamento com a TI;
+1. André Silva
+2. Gosto de estudar informática
+3. estudo TI desde cedo
 ```
 Cada entrada deverá ter ao menos:
 
